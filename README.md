@@ -5,8 +5,8 @@ I’m Subhakanta, a full-time product developer 👨‍💻 working since 2020 �
 ### 💫 About Me 
 
 🚀 I am a product developer who is passionate about enhancing user experience. <br />
-🔭 I’m currently working at FactoryPlus.<br />
-💼 Previously with <a href="https://searchingyard.com">SearchingYard</a>.<br />
+🔭 I’m currently working at Mindfire.<br />
+💼 Previously with <a href="https://searchingyard.com">SearchingYard</a> and <a href="https://factoryplus.in/">Factoryplus</a>.<br />
 🌱 I’m currently learning Node js and MySQL.<br />
 ❓ Ask me about anything related to MERN stack and related technologies.<br />
  
